@@ -1,7 +1,7 @@
 package ohm.softa.a09.internals.worker;
 
 import ohm.softa.a09.model.Fighter;
-import ohm.softa.a09.model.FighterFactory;
+import ohm.softa.a09.model.Factory.FighterFactory;
 import javafx.collections.ObservableList;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

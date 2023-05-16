@@ -1,5 +1,6 @@
 package ohm.softa.a09.model;
 
+import ohm.softa.a09.model.Factory.FighterFactory;
 import org.junit.jupiter.api.Test;
 
 import java.util.HashSet;
